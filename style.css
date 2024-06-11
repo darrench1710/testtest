@@ -1,0 +1,19 @@
+p{
+    /* family*/
+
+    /*On ne définit qu'une police*/
+    font-family: "Raleway";
+    /*On ne définit qu'une police et une police générique*/
+    font-family: "Raleway",sans-serif;
+    /*On définit plusieurs polices et une police générique*/
+    font-family: "Raleway", Arial,sans-serif;
+
+    /* taille*/
+font-size: 1.2em;
+
+   /*Style*/
+   font-style: oblique;
+   text-decoration: underline;
+   font-weight: bold;
+   text-transform: capitalize;
+}
